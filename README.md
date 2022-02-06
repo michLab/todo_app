@@ -1,4 +1,4 @@
-# Mozarella Webbrowser
+# ToDo Application
 
 This is my ToDo application of simple web browser, based on [PyQt5 Tutorial](https://www.pythonguis.com/tutorials/modelview-architecture/)
 
