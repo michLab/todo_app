@@ -2,8 +2,8 @@
 
 This is my ToDo application of simple web browser, based on [PyQt5 Tutorial](https://www.pythonguis.com/tutorials/modelview-architecture/)
 
-![Empty ToDo list](todo_app_initial.png)
-![Completed one task](todo_app_completed_task.png)
+![Empty ToDo list](images/todo_app_initial.png)
+![Completed one task](images/todo_app_completed_task.png)
 
 ## Features
 
