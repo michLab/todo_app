@@ -43,7 +43,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         QMainWindow.__init__(self)
         Ui_MainWindow.__init__(self)
         self.setupUi(self)
-        #self.model = TodoModel(todos=[(False, 'My first todo')])
+        self.setWindowTitle("ToDo App")
         self.model = TodoModel()
         self.load()
         self.todoView.setModel(self.model)
